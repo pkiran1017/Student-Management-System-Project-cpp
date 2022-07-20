@@ -1,5 +1,5 @@
 
-##  Student Database Management System Using CPP
+##  Student Management System Using CPP
 
 
 ## Features
